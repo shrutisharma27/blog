@@ -1,2 +1,1 @@
-# 7targets-blog
-7Targets Blog
+# 7Targets Blog

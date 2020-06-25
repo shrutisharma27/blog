@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Hiring Employees vs SaaS. How equation has changed in last 5 years?"
+author: Sanju
+categories: [ Strategy ]
+tags: [SaaS ]
+image: assets/images/Spectrum-of-Outcome.png
+# beforetoc: "Prism highlighter is a very powerful thing."
+# toc: true
+description: "Hiring employees Vs SaaS solutions can be a sensitive topic. We all know who won the war between on-prem software Vs Cloud Based."
+# rating: 4.5
+---
+
+## Spectrum of outcome
+Talking about hiring employees Vs Signing up for SaaS solutions can be a sensitive topic. We all have heard who won the war between on-prem software Vs Cloud Based SaaS. Last decade has made Amazon the most valued company in the world. Part of Amazon’s offerings are Cloud based solutions.
+
+## How fast are SaaS solutions growing?
+
+One important statement I heard in Jan 2019 is that SaaS founders are slated to make the highest number of billionaires in 2019. While I haven't checked the statistics no it, it definitely shows the speed at which SaaS is getting adopted. To reiterate the fundamental advantages, SaaS has the exciting benefits of OpEx (pay as you go), freedom to stop services anytime, and no long term lock-ins in most SaaS offerings.
+
+Recently, I started my second startup named **[7Targets](https://7targets.ai) in April 2019**. I have witnessed a sea change that has happened in the last 5-6 years compared to my experience when I ran my first startup – Opex Software – in 2013. I was struggling to hire the right candidates with good experience in Opex, but today we have good value available in freemium SaaS solutions. 
+
+Softwares like Canva help us in creating designs for visiting cards, social media posts at a level of ease where a layman can get the job done. 
+
+Expert and expensive graphic designers are not necessarily needed. For creativity and imagination we need to hire employees who may not have the same senior profile requirements. Actual creation of the design is now way simplified. Mailchimp, Constant Contacts, etc were always around for many years to help in outbound marketing. The point is, a lot of new SaaS solutions have come up in the past 5 years which are worth taking a note of.
+
+## SaaS, Execution and Business @Speed
+
+I categorise SaaS solutions into three categories: 
+- Normal SaaS solutions
+- SaaS solutions that provide automation
+- SaaS solutions using AI technologies
+
+The AI based SaaS solutions are simply irresistible.
+
+Employees provide intelligent solutions. A few brainstorming meetings later, we all decide the next steps of execution. SaaS solutions that solve the same problem has more than often spent many years on specific point solutions.
+
+Before we get into the examples of SaaS tools that can provide better outcome than employees you would hire, I want to update you on a book named **Execution** by `Ram Charan and Larry Bossidy`. Its an old book, but still relevant. `Bob Beauchamp, CEO of BMC Software`, had recommended all middle management to read this book. This book stressed the importance of **Execution as a strategy**. 
+
+Another notable book that was released way before **Execution** was **Business at the speed of thought** by `Bill Gates`. That book talked about how digital technologies are helping the **_global village_** to reduce the digital divide. It also covered how technologies will help create a ‘balanced world’, so to speak. 
+
+AI Based SaaS solutions seem to have started bridging the above two together.
+
+## Cost of SaaS tools
+
+Changing gears. While researching tools for marketing, we have many choices today! Automated social media posting tools like Buffer, Hootsuite, Sprout and many more. Excellent tools like DiiB that not only help a layman in website analysis, but also in setting up actions to correct issues. DiiB goes one step further letting us know the estimate in man days for different actions! All this at around a $30 per month price point. Seriously, what can you really get done in $30 today? Maybe a lunch for two. If you were thinking of hiring a person to keep you on top of your website related actions, think again. These new age software can do a lot more, that too without taking any holiday breaks.
+
+
+My security certificate for www.7Targets.ai was going to expire and I got a timely alert from DiiB! I was running my facebook campaign and DiiB showed, in simple English, how my visitors increased from last Friday, and what I should do next to get more visitors. 
+
+Boring, unclear dashboards  of traditional tools require analysts which all companies cannot afford. If your human analyst is not that good, you may be putting your companies growth on a risky path. When one SaaS based company puts so many years of collective experience into a AI based software, it’s going to be super difficult for even a good human analyst to beat the software’s analyses. 
+
+Not just DiiB, other softwares like Marxeed, from AppliedAIConsulting.com, go a step further. This is about software services companies using `SaaS solutions + people`. These services, since they involve people, range in a few thousand dollars to provide high quality meaningful services. 
+
+AppliedAIConsulting provides all artifacts a CMO (Chief Marketing Officer) or a campaign manager needs to create an excellent content cluster along with an email workflow + email subject lines + sample email body! You can run your outbound email campaign in 1 day flat. Not just that, [Marxeed](https://appliedaiconsulting.com/marxeed.html) also provides 10+ blog topic suggestions for immediately working on creating some `must have` blog content. To top it off, Marxeed provides a target account list for immediately getting into Account based marketing too! This tool is not a SaaS tool for end users yet, but it’s a platform used by AppliedAIConsulting employees themselves to provide 60% more speed for rapid experimentation. 
+
+Growth marketing experts suggest rapid experimentation for fast growth, and Marxeed is the right tool for it. Applied AI Marketing services can easily replace 3-5 vendors charging tens of thousands of dollars helping on different topics like explainer videos, content creation, email campaign execution, social media etc. and reduce that high expense to a mere $4000-$5000 per month. The secret sauce of this platform is that they have an excellent IP, but along with that they also meaningfully integrate with some very niche AI based marketing tools who have individually created crisp point solutions. Finally, Applied AI Consulting team interacts at a business level, and that reduces all the vendor meetings into less than one interaction per week.
+
+To tell you one more story, a personal one, we used many marketing tools like Marketo and Hubspot while I was heading REAN Cloud marketing. Each of these enterprise tools are made as if developers are going to use them. Since I come from a development background, I loved Hubspot. But my marketing team went bonkers when it saw the complex workflows. My team did not understand why one should add `{ }` around name fields. The concept of parameterisation can be alien to more people than you may think or like. 
+
+The complexity carries on in making it mandatory to define email sequences to get started, before sending out the first email. `Out of office` email responses are treated as `Opened` and incorrectly branched into ‘email responded’ branch of a pre-defined ‘unintelligent’ workflow. If a lead asks for something as simple as a brochure, the workflows cannot auto-respond and transform themselves. Hence we thought of simplifying the lead follow-ups with some super simple methods using an AI Sales Assistant. Marketing teams hire Inside Sales to do the mundane job of following up leads, and most companies outsource the boring follow-up job to another company. Hot leads are already followed up by Sales and Marketing teams, and the rest of the leads are ignored. No team likes to follow non-hot leads. More than 90% of leads are not hot. These ignored leads generally have more than 5-7% potential prospects hidden in them. Just that it’s too costly to follow-up these leads with expensive manpower. SaaS solutions like 7Targets AI Sales assistant, at under $200 per month, provide all the flows needed for such follow-ups out of the box!  
+
+## Economic Equilibrium
+
+While there are many more SaaS stories to share, I wanted to share some direct, personal, primary, first hand experiences to begin series. If you have a question about a particular set of AI based SaaS tools in a specific work area, feel free to email me at the below email address, and I can include the research in my next blog. As SaaS based AI solutions continue to make  companies powerful, where far flung countries can now access the brainpower of top founders, be ready to enter a new disruptive era that will hopefully create a new economic equilibrium in the world. 
+
+If you think this article is valuable to those having hiring issues and can be helped by AI Based SaaS solutions, please share this article. 
+
+_Disclosure: I have accepted being a mentor for Applied AI Consulting._
