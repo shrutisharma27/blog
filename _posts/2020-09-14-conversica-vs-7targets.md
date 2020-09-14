@@ -20,7 +20,7 @@ AI Sales Assistant or Virtual SDR are helping get the consistency and reliabilit
 Below is a honest attempt to compare Conversica and 7Targets AI Sales Assistant on above and few more attributes.
 
 ## Ability to write and read emails
-Assistant would be able to write focused first and the followup emails. Making sure of ~5 second read, to the point emails. Executive do not have much time, so the focus to the point and small emails increases the readability. Assistant should be able to pick the right subject too. 
+Assistant would be able to write focused first and the followup emails. Making sure of ~5 second read, to the point emails. Executive do not have much time, so the focus on to the point and small emails increases the readability. Assistant should be able to pick the right subject too. 
 
 Conversica is in this from sometime now, so surely **has a matured AI model** and process for this. 7Targets is not far behind too.  
 Almost all of our existing customers want to write there first emails themselves and many let the Assistant write the followup emails. The flexibility of letting user write there own custom message and pick the custom sequence of email for advanced user would possibly **score at par if not above** Conversica. 
