@@ -10,7 +10,7 @@ image: assets/images/01-12.png
 description: "Comparison between Conversica and 7Targets AI Sales Assistant. One honest comparison attempt."
 # rating: 4.5
 ---
-AI Sales Assistant or Virtual SDR are helping get the consistency and reliability in the Sales process. AI Sales Assistant market is growing and each product is taking is perspective to provide the value for their customer. Below are some important expectations one has from the AI Sales Assistant.
+AI Sales Assistant or Virtual SDR are helping get the consistency and reliability in the Sales process. AI Sales Assistant market is growing and each product is taking its perspective to provide the value for their customer. Below are some important expectations one has from the AI Sales Assistant.
 
 - Ability to write and read emails
 - Based on the email response decide the conversational path
