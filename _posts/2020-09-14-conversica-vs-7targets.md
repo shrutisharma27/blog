@@ -47,7 +47,7 @@ Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost 
 
 **Nurturing Table:** Concept of Nurturing table and each assistant's ability to have it own Industry specific Nurturing table gives the edge to the 7Targets Assistant. It is important to get a 100% problem area coverage for your target profile so that small bits of knowledge can eb shared with the lead. This approach is proven to work well and get the lead engaged more. Yes one can have multiple assistants per user. [Read more](https://help.7targets.com/getting-responses/assistant-nurturing/)
 
-**Support:** 7Targets being a startup wants to make sure our customers get the value from the solutions. Work very closely with the customers to help them use the Assistant well. Help review the custom messages written. The instant support and custom focused backlog prioritization makes sure that customers get what they want.
+**Support:** 7Targets being a startup, wants to make sure that customers get the value from the solution. Works closely with the customers to help them use the Assistant well. Help review the custom messages written. The instant support and customer focused backlog prioritization makes sure that customers get what they want.
 
 **Engaged and Warm leads:** Getting a list of leads who are engaged and Warm would help the Sales team prioritize on whom to call. There by improving the calling metrics. [Read more](https://help.7targets.com/assigning-leads/lead-responses/#lead-state)
 
