@@ -7,7 +7,7 @@ tags: [AI, Sales]
 image: assets/images/01-12.png
 # beforetoc: "Prism highlighter is a very powerful thing."
 # toc: true
-description: "Comparison between Conversica and 7Targets AI Sales Assistant. One honest comparison attempt."
+description: "Comparison between Conversica and 7Targets AI Sales Assistant as Conversica alternative. One honest comparison attempt. "
 # rating: 4.5
 ---
 AI Sales Assistant or Virtual SDR are helping get the consistency and reliability in the Sales process. AI Sales Assistant market is growing and each product is taking its perspective to provide the value for their customer. Below are some important expectations one has from the AI Sales Assistant.
