@@ -14,8 +14,10 @@ AI Sales Assistant or Virtual SDR are helping get the consistency and reliabilit
 
 - Ability to write and read emails
 - Based on the email response decide the conversational path
+- One user has multiple Assistants
 - Remind the Sales people too
 - Go hyper personalized in terms of email sending time
+- Pricing
 
 Below is a honest attempt to compare Conversica and 7Targets AI Sales Assistant on above and few more attributes.
 
@@ -29,15 +31,21 @@ Almost all of our existing customers want to write there first emails themselves
 7Targets AI Assistant's AI model is able to detect Out of Office(OOO) almost all the time, with this the Assistant would be able to send the next email at the time when the lead is back to office. Beyond OOO, there are other important conversational capabilities to continue the conversation. No doubt, Conversica is matured in identifying correct intent in the email response, again because of the time they are working on this. 
 7Targets has taken a conscious approach of letting the human being respond back in case of leads response. The reason for taking this approach is to avoid accidental wrong emails in 2nd and 3rd level conversations. Finally AI is machine and can interpret wrong. 7Targets Assistant responds only when someone asks for brochure. 7Targets is continuously investing in improving the AI model to be able to identify more intents from the email responses. 7Targets AI Assistant ability to extract AI sense for you from the lead response gives you a possible phone number to reach out to and other email ids too, which score high.
 
+## One user has multiple Assistants
+7Targets implemented this as a request from some of the existing customers. This gives sales an ability to create geography specific and Industry/Vertical specific Assistants, giving a better connect with the leads. Don't see this in Conversica at the time of writing this blog.
+
 ## Remind the Sales people too
 7Targets customers requested for a feature where the Assistant should followup with the Sales people in case they forgot to respond back to a lead who responded. Conversica has this feature of identifying a Lead at Risk but reminding the sales about it is critical and allowing to mark it off or changing the frequency on each such lead **scores high** for 7Targets. 
 
 ## Go hyper personalized in terms of email sending time
 Ability to understand the email reading timings and sending further followup emails is critical to getting the leads attention and possible response. 7Targets Assistant does come with this skill. Not sure of this functionality in Conversica at the time of writing this blog. 
 
+## Pricing
+Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost of a human being. When compared with Conversica the yearly cost of the 7Targets Assistant is less than Conversica's monthly pricing. 
+
 ## Some other important aspects and features:
 
-**Nurturing Table:** Concept of Nurturing table and each assistant's ability to have it own Industry specific Nurturing table gives the edge to the 7Targets assistant. It is important to get a 100% problem area coverage for your target profile so that small bits of knowledge can eb shared with the lead. This approach is proven to work well and get the lead engaged more. Yes one can have multiple assistants per user. [Read more](https://help.7targets.com/getting-responses/assistant-nurturing/)
+**Nurturing Table:** Concept of Nurturing table and each assistant's ability to have it own Industry specific Nurturing table gives the edge to the 7Targets Assistant. It is important to get a 100% problem area coverage for your target profile so that small bits of knowledge can eb shared with the lead. This approach is proven to work well and get the lead engaged more. Yes one can have multiple assistants per user. [Read more](https://help.7targets.com/getting-responses/assistant-nurturing/)
 
 **Support:** 7Targets being a startup wants to make sure our customers get the value from the solutions. Work very closely with the customers to help them use the Assistant well. Help review the custom messages written. The instant support and custom focused backlog prioritization makes sure that customers get what they want.
 
