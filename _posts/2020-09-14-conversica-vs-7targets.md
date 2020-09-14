@@ -4,7 +4,7 @@ title:  "Conversica vs 7Targets"
 author: GG
 categories: [ Sales, Comparison ]
 tags: [AI, Sales]
-image: assets/images/01-12.png
+image: assets/images/Conversica-vs-7Targets.png
 # beforetoc: "Prism highlighter is a very powerful thing."
 # toc: true
 description: "Comparison between Conversica and 7Targets AI Sales Assistant as Conversica alternative. One honest comparison attempt. "
