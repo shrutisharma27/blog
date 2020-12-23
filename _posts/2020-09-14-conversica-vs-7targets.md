@@ -56,4 +56,4 @@ Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost 
 **Intelli upload of Excel File:** One expects the physical Assistant to extract data from an excel file and then write emails. 7Targets AI Sales Assistant tries to provide this functionality. [Read More](https://help.7targets.com/assigning-leads/add-multiple-leads/#add-multiple-leads)
 
 ## Conclusion
-Honestly, it is very difficult to pick out one. Better to leave it to your judgment based on various aspects compared above. Feel free to sign-up at https://solution.7targets.com/sign-up and give a try. 
+Honestly, it is very difficult to pick out one. Better to leave it to your judgment based on various aspects compared above. Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=conv-vs-7ts&utm_source=7tsblogs) and give it a try. 
