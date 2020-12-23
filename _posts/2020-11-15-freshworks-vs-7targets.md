@@ -4,7 +4,7 @@ title:  "Freshworks vs 7Targets"
 author: Sanju
 categories: [ Sales, Comparison ]
 tags: [AI, Sales]
-image: C:\Work\blog\assets\images\Untitled.png
+image: assets/images/freshmarketers-vs-7targets.png
 # beforetoc: "Prism highlighter is a very powerful thing."
 # toc: true
 description: "Comparison between Freshmarketers and 7Targets AI Sales Assistant as Freshmarketers alternative. One honest comparison attempt. "
@@ -85,4 +85,4 @@ The Assistant's job ends after she gets a positive response from the prospect. A
 
 Assistant simply focused on the first leg of the tasks, that of getting meetings everyday for sales. With that singular goal in mind, we work with all other CRMs and tools. 
 
-Feel free to sign-up at https://7targets.ai/sign-up.html?utm_medium=reference&utm_source=blog and give it a try.
+Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=fresh-vs-7ts&utm_source=7tsblogs) and give it a try.

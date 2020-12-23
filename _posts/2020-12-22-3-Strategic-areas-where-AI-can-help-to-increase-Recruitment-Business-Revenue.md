@@ -2,9 +2,9 @@
 layout: post
 title:  "3 Strategic areas where AI can help to increase Recruitment Business Revenue"
 author: Sanju
-categories: [ Sales, AI, recruitment business ]
+categories: [ Sales, AI, Recruitment Business ]
 tags: [AI, Sales]
-image: C:\Work\blog\assets\images\RECRUITMENT BUSINESS.png
+image: assets/images/Recruitment-business.png
 # beforetoc: "Prism highlighter is a very powerful thing."
 # toc: true
 description: "Comparison between Freshmarketers and 7Targets AI Sales Assistant as Freshmarketers alternative. One honest comparison attempt. "
@@ -38,4 +38,4 @@ But as said earlier, this task of regularly sending emails or messages and also 
 
 The core philosophy of automation first with AI Assistants is the key to growth in the recruitment sector, as technology becomes more simple to use.
 
-Feel free to sign-up at https://7targets.ai/sign-up.html?utm_medium=reference&utm_source=blog and give it a try and experience how an AI assistant can scale up your recruitment business.
+Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=3-strategies-recruitment&utm_source=7tsblogs) and give it a try and experience how an AI assistant can scale up your recruitment business.
