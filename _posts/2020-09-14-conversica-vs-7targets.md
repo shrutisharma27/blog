@@ -27,8 +27,6 @@ Assistant would be able to write focused first and the followup emails. Making s
 Conversica is in this from sometime now, so surely **has a matured AI model** and process for this. 7Targets is not far behind too.  
 Almost all of our existing customers want to write there first emails themselves and many let the Assistant write the followup emails. The flexibility of letting user write there own custom message and pick the custom sequence of email for advanced user would possibly **score at par if not above** Conversica. 
 
-![image](assets/images/Conversica-vs-7Targets.png)
-![image](../assets/images/Conversica-vs-7Targets.png)
 ## Based on the email response decide the conversational path
 7Targets AI Assistant's AI model is able to detect Out of Office(OOO) almost all the time, with this the Assistant would be able to send the next email at the time when the lead is back to office. Beyond OOO, there are other important conversational capabilities to continue the conversation. No doubt, Conversica is matured in identifying correct intent in the email response, again because of the time they are working on this. 
 7Targets has taken a conscious approach of letting the human being respond back in case of leads response. The reason for taking this approach is to avoid accidental wrong emails in 2nd and 3rd level conversations. Finally AI is machine and can interpret wrong. 7Targets Assistant responds only when someone asks for brochure. 7Targets is continuously investing in improving the AI model to be able to identify more intents from the email responses. 7Targets AI Assistant ability to extract AI sense for you from the lead response gives you a possible phone number to reach out to and other email ids too, which score high.
@@ -58,4 +56,4 @@ Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost 
 **Intelli upload of Excel File:** One expects the physical Assistant to extract data from an excel file and then write emails. 7Targets AI Sales Assistant tries to provide this functionality. [Read More](https://help.7targets.com/assigning-leads/add-multiple-leads/#add-multiple-leads)
 
 ## Conclusion
-Honestly, it is very difficult to pick out one. Better to leave it to your judgment based on various aspects compared above. Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=conv-vs-7ts&utm_source=7tsblogs) and give it a try. 
+Honestly, it is very difficult to pick out one. Better to leave it to your judgment based on various aspects compared above. Feel free to sign-up at https://solution.7targets.com/sign-up and give a try. 
