@@ -14,7 +14,7 @@ We all know that Salesforce is one of the best CRM tools available, but when it 
 
 The AI assistant of 7Targets not only sends automated human-like emails to the leads, but also reads the email responses, and acts just like any human being would. She follows up with each lead until they can be marked as warm or hot. And to top it all, the AI assistant is also capable of updating all the information into the salesforce CRM instantly and accurately.
 
-Not only just Salesforce but also updates every other CRM tools available. To name a few Hubspot, Zapier, Sugarcrm, Zoho, Freshmarketer, Pipedrive, etc.
+Not only just Salesforce but also updates every other CRM tools available. To name a few Hubspot, Sugarcrm, Zoho, Freshmarketer, Pipedrive, etc.
 
 ![image](../assets/images/7targets-all-integrations.png)
 
@@ -26,4 +26,4 @@ Once assigned, the assistant will start the communication using the proper conte
 ## Outcome
 This feature reduces the efforts required to enter the data into salesforce considerably. Salesforce remains updated. Reports look correct. Management is happy. Pipeline remains good. Conversions remain the focus because sales guys get to focus on responded leads and not cold leads. 90% of cold leads are worked upon by the assistant, which directly reduces 90% of effort for each salesperson. 
 
-Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=AI-assist-as-SF-user&utm_source=7tsblogs) and give it a try and experience how an AI assistant can reduces your effort.
+Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=AI-assist-as-SF-user&utm_source=7tsblogs) and give it a try and experience how an AI assistant can reduce your effort.
