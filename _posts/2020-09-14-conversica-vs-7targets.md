@@ -27,6 +27,8 @@ Assistant would be able to write focused first and the followup emails. Making s
 Conversica is in this from sometime now, so surely **has a matured AI model** and process for this. 7Targets is not far behind too.  
 Almost all of our existing customers want to write there first emails themselves and many let the Assistant write the followup emails. The flexibility of letting user write there own custom message and pick the custom sequence of email for advanced user would possibly **score at par if not above** Conversica. 
 
+![image](assets/images/Conversica-vs-7Targets.png)
+![image](../assets/images/Conversica-vs-7Targets.png)
 ## Based on the email response decide the conversational path
 7Targets AI Assistant's AI model is able to detect Out of Office(OOO) almost all the time, with this the Assistant would be able to send the next email at the time when the lead is back to office. Beyond OOO, there are other important conversational capabilities to continue the conversation. No doubt, Conversica is matured in identifying correct intent in the email response, again because of the time they are working on this. 
 7Targets has taken a conscious approach of letting the human being respond back in case of leads response. The reason for taking this approach is to avoid accidental wrong emails in 2nd and 3rd level conversations. Finally AI is machine and can interpret wrong. 7Targets Assistant responds only when someone asks for brochure. 7Targets is continuously investing in improving the AI model to be able to identify more intents from the email responses. 7Targets AI Assistant ability to extract AI sense for you from the lead response gives you a possible phone number to reach out to and other email ids too, which score high.
