@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,h6 {
     font-weight:700;
 }
 .site-content {
-    padding-top:50px;
+    padding-top:00px;
 }
 .sitetag {
     font-weight:700;    
@@ -127,6 +127,44 @@ img, img:hover {
     border-right: solid rgba(0, 0, 0, 0.07) 1px;
     z-index: 1022;
     background:#fff;
+}
+.sideblogs {
+    display: block;
+    padding: 0 20px 0 0;
+    position: absolute;
+    top: 85px;
+    width: 200px;
+    margin-left: 740px;
+    // @media #{$mid-point} {
+    //     display: block;
+    // }
+
+    h3 {
+        margin-top: 0;
+    }
+
+    ul {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+
+        li {
+            margin: 0 0 15px 0;
+        }
+    }
+
+    a {
+        // color: black;
+        text-decoration: none;
+        display: block;
+        -webkit-transition: transform .2s ease;
+        line-height: 1.3em;
+
+        &.active {
+            color: $link-color;
+            transform: translateX(10px);
+        }
+    }
 }
 .nav-icon {
     position: fixed;
@@ -406,7 +444,7 @@ img, img:hover {
     line-height:1.2;
 }
 .entry-featured-image {  
-    width:940px;  
+    width:700px;  
     max-width: 100%;
     text-align:center;
     margin-left:auto;
