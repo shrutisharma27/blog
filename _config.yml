@@ -4,7 +4,7 @@ title: "7Targets Blog"
 description: "Applying Artificial Intelligence to Sales"
 logo: 'assets/images/7ts-logo.png'
 favicon: 'assets/images/logo1.png'
-baseurl: /
+baseurl: /blog
 url: https://blog.7targets.ai
 google_analytics: 'UA-140617154-1'
 # disqus: 'ggnagarkar'

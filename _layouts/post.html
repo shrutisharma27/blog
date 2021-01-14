@@ -6,29 +6,36 @@ post_class: post-template
 ---
 
 <div class="entry-header">
-    <!-- Post Title -->
-    <h1 class="posttitle">{{ page.title }}</h1>
-    <!-- Author & Date  Box -->
-    {% assign author = site.authors[page.author] %}
-    {% if page.author %}
-    <div class="d-flex align-items-center mt-4">
-        <div>
-            {% if author.avatar %}
-            <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-            {% else %}
-            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+    <section class="sideblogs sticky">
+        {% include related-posts-sideblogs.html %}
+    </section>
+    <section>
+        <!-- Post Title -->
+        <h1 class="posttitle">{{ page.title }}</h1>
+        <!-- Author & Date  Box -->
+        {% assign author = site.authors[page.author] %}
+        {% if page.author %}
+        <div class="d-flex align-items-center mt-4">
+            <div>
+                {% if author.avatar %}
+                <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+                {% else %}
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+                {% endif %}
+            </div>            
+            <div>
+            Written by <a target="_blank" class="text-dark" href="{{ author.web }}">{{ author.display_name }}</a> on 
+            <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+            {% if page.last_modified_at %}
+            (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
             {% endif %}
-        </div>            
-        <div>
-        Written by <a target="_blank" class="text-dark" href="{{ author.web }}">{{ author.display_name }}</a> on 
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-        {% if page.last_modified_at %}
-        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+            </div>            
+        </div>
         {% endif %}
-        </div>            
-    </div>
-    {% endif %}
+    </section>
 </div>
+
+<script src="{{ site.baseurl }}/js/main.js"></script>
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.adsense == "enabled" %}
