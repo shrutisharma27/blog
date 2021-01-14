@@ -9,6 +9,10 @@ $primary: $teal;
 $dark:    $black;
 $enable-rounded: false;
 
+$tablet: "(min-width: 450px)";
+$mid-point: "(min-width: 750px)";
+$desktop: "(min-width: 900px)";
+
 @import "bootstrap/functions";
 @import 'bootstrap/variables';
 @import "bootstrap/mixins";
@@ -129,15 +133,15 @@ img, img:hover {
     background:#fff;
 }
 .sideblogs {
-    display: block;
+    display: none;
     padding: 0 20px 0 0;
     position: absolute;
     top: 85px;
     width: 200px;
     margin-left: 740px;
-    // @media #{$mid-point} {
-    //     display: block;
-    // }
+    @media #{$mid-point} {
+        display: block;
+    }
 
     h3 {
         margin-top: 0;
