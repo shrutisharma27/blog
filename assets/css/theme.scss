@@ -363,8 +363,8 @@ img, img:hover {
             display:none;
         }
         .img-thumb {
-            object-fit:cover;
-            height:160px;
+            object-fit:scale-down;
+            height:100%;
             width:100%;
             object-position:top;
         }
