@@ -331,8 +331,8 @@ img, img:hover {
         margin-top: 10px;
     }
     .img-thumb {
-        object-fit:cover;
-        height:240px;
+        object-fit:scale-down;
+        height:100%;
         width:100%;
         object-position:top;
     }
