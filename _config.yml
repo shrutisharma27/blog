@@ -23,7 +23,11 @@ authors:
     email: gg@7targets.com
     web: https://www.linkedin.com/in/gunanandnagarkar
     twitter: https://twitter.com/ggnagarkar
-    description: ""
+    description: "Gunanand (aka GG) is known for bringing 3 things on board – Efficiency, Engagement and Enthusiasm. Presently focused on creating strategic solutions in Sales and Marketing domain with optimal use of AI/ML technology.
+
+Background: Infrastructure, Cloud, Application Monitoring, Event Management, Root Causal Analysis, BSM integrations, Big Data Analytics.
+
+Success: Founded and sold Opex Software/REAN cloud to Hitachi Vantara. Big contributor in the $950m DoD Cloud deal. (pre-JEDI deal)"
   Sanju:
     name: Sanju Burkule
     display_name: Sanju
@@ -32,7 +36,11 @@ authors:
     email: sanju.burkule@7targets.com
     web: https://www.linkedin.com/in/sanjuburkule
     twitter: https://twitter.com/sanjuburkule
-    description: ""
+    description: "Sanju is a serial entrepreneur. 2 decades of experience. Loves automating stuff. Recent obsession is around adding intelligence in marketing and sales solutions. He is currently focusing on a simple but very important problem of figuring out the best ways to intelligently respond to leads on time (not too fast, and not too late) to help get a meeting.
+
+His new mission is ‘Personalisation at scale for all at reasonably low cost’.
+
+Background: Developer. Founded and sold Opex Software/REAN cloud to Hitachi Vantara. Was lucky to be a contributor in the $950m DoD Cloud deal (pre JEDI deal)."
 
 # Plugins
 plugins:
@@ -73,7 +81,7 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "disabled"
+authorbox: "enabled"
 
 # Sass
 sass:
