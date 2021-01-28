@@ -12,6 +12,7 @@ description: "How AI Assistant engages leads and updates Salesforce automaticall
 ---
 <div class="video-container">
     <iframe src="http://www.youtube.com/embed/OJUD5ufvHkQ" height="380" width="560" 
+    allow="autoplay; encrypted-media"
     frameborder="0">
     </iframe>
 </div>
@@ -32,6 +33,7 @@ Watch Watch How does AI Sales Assistant remind sales executives and ENSURES that
 
 <div class="video-container">
     <iframe src="http://www.youtube.com/embed/bkjCyfOkfgc" height="380" width="560" 
+    allow="autoplay; encrypted-media"
     frameborder="0">
     </iframe>
 </div>
@@ -43,6 +45,7 @@ If you are still confused between if you should employee an AI sales assistant o
 
 <div class="video-container">
     <iframe src="http://www.youtube.com/embed/jlJON5LTUas" height="380" width="560" 
+    allow="autoplay; encrypted-media"
     frameborder="0">
     </iframe>
 </div>
