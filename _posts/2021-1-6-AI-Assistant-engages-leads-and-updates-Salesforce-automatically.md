@@ -11,7 +11,7 @@ description: "How AI Assistant engages leads and updates Salesforce automaticall
 # rating: 4.5
 ---
 <div class="video-container">
-    <iframe src="http://www.youtube.com/embed/OJUD5ufvHkQ" height="380" width="560" 
+    <iframe src="https://www.youtube.com/embed/OJUD5ufvHkQ" height="380" width="560" 
     allow="autoplay; encrypted-media"
     frameborder="0">
     </iframe>
@@ -32,7 +32,7 @@ Once assigned, the assistant will start the communication using the proper conte
 Watch Watch How does AI Sales Assistant remind sales executives and ENSURES that they do not forget to respond? 
 
 <div class="video-container">
-    <iframe src="http://www.youtube.com/embed/bkjCyfOkfgc" height="380" width="560" 
+    <iframe src="https://www.youtube.com/embed/bkjCyfOkfgc" height="380" width="560" 
     allow="autoplay; encrypted-media"
     frameborder="0">
     </iframe>
@@ -44,7 +44,7 @@ This feature reduces the efforts required to enter the data into salesforce cons
 If you are still confused between if you should employee an AI sales assistant or a human, you can watch a short video on Comparison between Virtual Sales Assistant and AI Sales Assistant here.
 
 <div class="video-container">
-    <iframe src="http://www.youtube.com/embed/jlJON5LTUas" height="380" width="560" 
+    <iframe src="https://www.youtube.com/embed/jlJON5LTUas" height="380" width="560" 
     allow="autoplay; encrypted-media"
     frameborder="0">
     </iframe>
