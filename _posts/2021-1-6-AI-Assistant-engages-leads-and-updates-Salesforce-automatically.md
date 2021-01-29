@@ -10,6 +10,7 @@ image: assets/images/7targets-integration-salesforce.png
 description: "How AI Assistant engages leads and updates Salesforce automatically and its advantages."
 # rating: 4.5
 ---
+## Video on How 7Target's AI Assistant owns and nurtures the lead from Salesforce 
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/OJUD5ufvHkQ" height="380" width="560" 
     allow="autoplay; encrypted-media"
@@ -20,7 +21,7 @@ We all know that Salesforce is one of the best CRM tools available, but when it 
 
 The AI assistant of 7Targets not only sends automated human-like emails to the leads, but also reads the email responses, and acts just like any human being would. She follows up with each lead until they can be marked as warm or hot. You can have a quick read about [Nurturing and converting leads like never before! Use 7Targets AI Sales Assistant](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/) here. And to top it all, the AI assistant is also capable of updating all the information into the salesforce CRM instantly and accurately.
 
-Not only just Salesforce but also updates every other CRM tools available. To name a few Hubspot, Sugarcrm, Zoho, Freshmarketer, Pipedrive, etc.
+Not only just Salesforce but also updates every other CRM tools available. To name a few Hubspot, SugarCRM, Zoho, Freshmarketer, Pipedrive, etc.
 
 ![image](../assets/images/7targets-all-integrations.png)
 
@@ -29,7 +30,7 @@ AI assistant is setup as one more user in salesforce. You just have to go into s
 
 Once assigned, the assistant will start the communication using the proper context and source. The Assistant will own the lead communications and will update the activity notes status in salesforce for every communication sent to the lead. After the initial conversation, if the lead responds positively, the lead is immediately marked as a HOT lead in salesforce, the AI assistant will update the response email in salesforce, automatically change the owner back from you so that you get an email notification from salesforce that the lead is HOT.
 
-Watch Watch How does AI Sales Assistant remind sales executives and ENSURES that they do not forget to respond? 
+Watch how does AI Sales Assistant remind sales executives and ENSURES that they do not forget to respond. 
 
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/bkjCyfOkfgc" height="380" width="560" 
@@ -39,9 +40,9 @@ Watch Watch How does AI Sales Assistant remind sales executives and ENSURES that
 </div>
 
 ## Outcome
-This feature reduces the efforts required to enter the data into salesforce considerably. Salesforce remains updated. Reports look correct. Management is happy. Pipeline remains good. Conversions remain the focus because sales guys get to focus on responded leads and not cold leads. 90% of cold leads are worked upon by the assistant, which directly reduces 90% of effort for each salesperson. 
+This feature reduces the efforts required to enter the data into salesforce considerably. Salesforce remains updated. Reports look correct. Management is happy. The Pipeline remains good. Conversions remain the focus because sales guys get to focus on responded leads and not cold leads. 90% of cold leads are worked upon by the assistant, which directly reduces 90% of effort for each salesperson. 
 
-If you are still confused between if you should employee an AI sales assistant or a human, you can watch a short video on Comparison between Virtual Sales Assistant and AI Sales Assistant here.
+If you are still confused about if you should employ an AI sales assistant or a human, you can watch a short video on Comparison between Virtual Sales Assistant and AI Sales Assistant here.
 
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/jlJON5LTUas" height="380" width="560" 
