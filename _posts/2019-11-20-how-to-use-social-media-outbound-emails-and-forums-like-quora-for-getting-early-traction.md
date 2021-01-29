@@ -66,5 +66,12 @@ In the end you are only left with a quick spam check of your emails to ensure yo
 - [GlockApps](https://glockapps.com/spam-testing/)
 - [Retainly](Retainly)
 
+**Must Read:**
+
+[How to use LinkedIn Navigator for B2B Lead Generation](https://blog.7targets.ai/how-to-use-linkedin-navigator-for-b2b-leads-generation/)
+
+[How to calculate Conversion Rate from leads to sales](https://blog.7targets.ai/how-to-calculate-conversion-rate-from-leads-to-sales/)
+
+
 ## Final thoughts
 >Its not a huge challenge to bring the right audience to your landing page. But it surely is lot of work. Some automation can help you escape some of the work. Using above simple steps, you can get early traction, and then look into paid methods of getting traffic to landing pages.
