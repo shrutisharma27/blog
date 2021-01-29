@@ -41,10 +41,20 @@ Another notable book that was released way before **Execution** was **Business a
 
 AI Based SaaS solutions seem to have started bridging the above two together.
 
+Here is a quick read on [How is AI changing the Sales World?](https://blog.7targets.ai/how-is-ai-changing-the-sales-world/)
+
 ## Cost of SaaS tools
 
 Changing gears. While researching tools for marketing, we have many choices today! Automated social media posting tools like Buffer, Hootsuite, Sprout and many more. Excellent tools like DiiB that not only help a layman in website analysis, but also in setting up actions to correct issues. DiiB goes one step further letting us know the estimate in man days for different actions! All this at around a $30 per month price point. Seriously, what can you really get done in $30 today? Maybe a lunch for two. If you were thinking of hiring a person to keep you on top of your website related actions, think again. These new age software can do a lot more, that too without taking any holiday breaks.
 
+If you want to know more whether a Virtual sales assistant rather a human or an AI sales assistant is more preferable then you must watch Virtual sales assistant VS AI sales assistant.
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/jlJON5LTUas" height="380" width="560" 
+    allow="autoplay; encrypted-media"
+    frameborder="0">
+    </iframe>
+</div>
 
 My security certificate for www.7Targets.ai was going to expire and I got a timely alert from DiiB! I was running my facebook campaign and DiiB showed, in simple English, how my visitors increased from last Friday, and what I should do next to get more visitors. 
 
@@ -64,6 +74,9 @@ The complexity carries on in making it mandatory to define email sequences to ge
 
 While there are many more SaaS stories to share, I wanted to share some direct, personal, primary, first hand experiences to begin series. If you have a question about a particular set of AI based SaaS tools in a specific work area, feel free to email me at the below email address, and I can include the research in my next blog. As SaaS based AI solutions continue to make  companies powerful, where far flung countries can now access the brainpower of top founders, be ready to enter a new disruptive era that will hopefully create a new economic equilibrium in the world. 
 
-If you think this article is valuable to those having hiring issues and can be helped by AI Based SaaS solutions, please share this article. 
+If you want to numerically compare Conversion Rate from leads to sales for an employee and SaaS you must read [How to calculate Conversion Rate from leads to sales](https://blog.7targets.ai/how-to-calculate-conversion-rate-from-leads-to-sales/) here.
+
+And if you think this article is valuable to those having hiring issues and can be helped by AI Based SaaS solutions, please share this article.
+
 
 _Disclosure: I have accepted being a mentor for Applied AI Consulting._

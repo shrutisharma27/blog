@@ -28,6 +28,15 @@ Using a “template-based approach” often results in one email getting sent to
 
 Sakshi, our AI Assistants, works differently. She changes different opening and closing sentences to make emails look like they are written by a human. Sakshi changes subject line combinations based on best practices using a machine learning model. Sakshi learns and remembers the email open time of 1000’s of prospects and adjusts the time of sending subsequent emails to the prospect accordingly. This combination of simulating a human is not present in FreshMarketer, Zoho, Hubspot, or Salesforce. 
 
+Watch 4 Important Automated Responses by AI Sales Assistants (and HOT lead classification).
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/07ubSuJ3yKg" height="380" width="560" 
+    allow="autoplay; encrypted-media"
+    frameborder="0">
+    </iframe>
+</div>
+
 ## Ability for senior execs to simply cc the assistant, as they do with a real assistant
 Senior executives have no time to get into “one more tool” and add a lead. They simply want to cc their assistant so that the assistant goes ahead and follows up a conversation. Similarly, Sakshi can be cc’ed and she will followup with a prospect if he/she does not respond. 
 
@@ -37,7 +46,7 @@ This cannot be done with Freshmarketer or similar tools.
 Mundane work like cleaning up email addresses is also automatically done by the assistant before she starts sending emails. AFAIK, most tools blindly send emails to whoever you need to and then penalize you for a large bounce rate. And that leaves the job of cleaning up emails back on your business development team, who - instead of doing business development, now have to focus on administrative work like email address cleanups. 
 
 ## Auto-scheduling follow ups
-If a prospect is out of office for the rest of the week, should an email followup engine still continue to send emails? If a prospect asks to contact after 2 months after covid situation is over, is it necessary for a human to intervene, manually set a reminder for himself to contact the prospect after 2 months, and then, after 2 months, remember to actually contact the prospect again after 2 months? This is what most tools ask you to do. They force business development guys to put data into CRMs, set reminders themselves, and ask them to be disciplined and process-oriented. 
+If a prospect is out of office for the rest of the week, should an email followup engine still continue to send emails? If a prospect asks to contact after 2 months after the covid situation is over, is it necessary for a human to intervene, manually set a reminder for himself to contact the prospect after 2 months, and then, after 2 months, remember to actually contact the prospect again after 2 months? This is what most tools ask you to do. They force business development guys to put data into CRMs, set reminders themselves, and ask them to be disciplined and process-oriented. 
 
 Many juniors or inside sales team members may not be highly process-oriented. Everyone forgets. When I see the email to contact a prospect after 2 months, I may see it on my mobile while having coffee. Now if I have to remember to get back to my CRM and update the task list once I go back to my desk, most people simply drop the lead. 
 
@@ -54,6 +63,13 @@ Seeing this clearly across team members is not possible in traditional tools lik
 ## Remind the Salespeople too
 7Targets customers requested for a feature where the Assistant should followup with the Salespeople in case they forgot to respond back to a lead who responded. Other tools like Freshmarketer, Hubspot, Salesforce has no such concept of identifying that a “Lead is at Risk” and reminding the sales. Other tools depend on humans to come to the Reminder section and add a task to remind themselves about different situations.
 
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/bkjCyfOkfgc" height="380" width="560" 
+    allow="autoplay; encrypted-media"
+    frameborder="0">
+    </iframe>
+</div>
+
 ## Running Sendgrid and other tools
 Assistant has the skills to run other emailing tools like SendGrid. Just like a human assistant would run SendGrid. Hubspot also uses SendGrid in the backend to send emails. Our AI assistants use Amazon SES. AI Assistants’ value is in creating different email content with different success stories without creating “rigid templates”. 
 
@@ -69,10 +85,17 @@ Help.7Targets.com has detailed videos to get started. [Read more](https://help.7
 7Targets makes sure that customers get value from the solution. Works closely with the customers to help them use the Assistant well. Help review the custom messages if needed. The instant support and customer-focused backlog prioritization makes sure that customers get what they want.
 
 ## Screening out prospects
-The focus of the assistant is to screen out prospects where humans should not spend time. Finding out engaged and warm leads. Getting a list of leads who are engaged and Warm would help the Sales team prioritize whom to call. Thereby improving the calling metrics. Freshmarketer, Hubspot are tools which provide you the framework and you have to figure out who is a warm lead, who is a hot lead. The AI Assistant helps do that for you. [Read more](https://help.7targets.com/assigning-leads/lead-responses/#lead-state)
+The focus of the assistant is to screen out prospects where humans should not spend time. Finding out engaged and warm leads. Getting a list of leads who are engaged and Warm would help the Sales team prioritize whom to call. Thereby improving the calling metrics. Freshmarketer, Hubspot are tools that provide you the framework and you have to figure out who is a warm lead, who is a hot lead. The AI Assistant helps do that for you. [Read more](https://help.7targets.com/assigning-leads/lead-responses/#lead-state)
  
 ## WhatsApp Notifications on hot leads, warm leads
-WhatsApp notifications for the Hot and Warm lead gives the Salesperson an opportunity to call the lead instantly. There is good research from the best universities and experts in the area which says that if you are able to talk to someone within 5 mins of that person engaged with your content, the chances of further communication increases substantially. 
+WhatsApp notifications for the Hot and Warm lead gives the Salesperson an opportunity to call the lead instantly. There is good research from the best universities and experts in the area which says that if you are able to talk to someone within 5 mins of that person engaged with your content, the chances of further communication increases substantially.
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/w67lVDntr90" height="380" width="560" 
+    allow="autoplay; encrypted-media"
+    frameborder="0">
+    </iframe>
+</div>
 
 ## Intelli import 
 All tools today force you to adopt a particular format and then upload data. Marketing and sales guys are not software engineers. Simple looking tasks can be difficult. Although this feature is in beta right now, 7Targets focus is to make end users’ life easy so that he simply drags and drops the XL with one lead per row, and the assistant automatically picks up names and email addresses. [Read more](https://help.7targets.com/assigning-leads/add-multiple-leads/#add-multiple-leads)
