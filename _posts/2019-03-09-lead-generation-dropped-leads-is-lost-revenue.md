@@ -12,19 +12,19 @@ description: "Events is by far one of the biggest expenses in every marketing te
 ---
 
 ## Activities before the event.
-‘Events’ is by far one of the biggest expenses in every marketing team budget each year. Events are chosen based on a event selection criteria. Expenses generally include people traveling to those events, hotels, booth backdrops. Other expenses include the time invested in organising the event such as creating a booth duty calendar, creating a crisp message, brochures, give-aways. A few diligent marketing teams also ensure that they go through the possible attendees long before the event begins and pre-book meetings with key people. In short, marketing teams put in a lot of effort to make events successful.
+‘Events’ is by far one of the biggest expenses in every marketing team budget each year. Events are chosen based on a event selection criteria. Expenses generally include people traveling to those events, hotels, booth backdrops. Other expenses include the time invested in organizing the event such as creating a booth duty calendar, creating a crisp message, brochures, give-aways. A few diligent marketing teams also ensure that they go through the possible attendees long before the event begins and pre-book meetings with key people. In short, marketing teams put in a lot of effort to make events successful.
 
 ## Excitement on the event day
 
 On the day of the event, all are happy to see a good crowd show up in the first half. Badges are scanned, visiting cards are collected, a few meetings last more than 10-15 minutes too! A lot of t-shirts are given away.
 
-## Lead responses after event is over
+## Lead responses after the event is over
 
 Teams come back to office with a good lead list. If its not a long weekend, a thank you email is sent to all attendees as early as possible. About 8% of those receivers open the email, and even fewer respond to the email. Teams thinks about changing subject lines, checking email openings, changing graphics in the emails, ensuring no grammatical mistakes are made, and resend the emails in the hope of getting more responses. And again, the results are similar.
 
 Some of the sales team members followup leads in their territory directly, but after a week or so, after no response, most leads are marked as ‘contact attempted’.
 
-Some surveys suggest that more than 77% leads are dropped after one or two followups. Confidence levels of getting a response from a lead goes down by each passing week, and soon teams start looking forward to the next budgeted event, even though the ROI of initial event does not seem to be on track.
+Some surveys suggest that more than 77% of leads are dropped after one or two followups. Confidence levels of getting a response from a lead goes down with each passing week, and soon teams start looking forward to the next budgeted event, even though the ROI of initial event does not seem to be on track.
 
 ## Why leads are dropped?
 
@@ -42,7 +42,11 @@ Companies are leaving money on the table by not processing 100% of the leads. It
 
 The need for a smart, energetic assistant who can take all the rejections and still followup leads on all possible channels like LinkedIn, Emails, WhatsApp, SMS is needed to ensure that we get a ‘Interested/Not interested’ from each lead who had visited the booth. Same needs to be done for all other lead sources such as leads gathered from website chatbots, leads who downloaded the best practices white paper from the website, leads who consistently share your posts and more.
 
-Hence we created 7Targets.ai. The goal of 7Targets is to ensure that organisations do not lose revenue because leads are dropped. There are a few other assistants that are helping in different areas in this space. Some examples are provided below:
+Hence we created 7Targets.ai. The goal of 7Targets is to ensure that organizations do not lose revenue because leads are dropped.
+
+[Nurturing and converting leads like never before! Use 7Targets AI Sales Assistant](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/)
+
+ There are a few other assistants that are helping in different areas in this space. Some examples are provided below:
 
 ## AI Sales Assistant
 

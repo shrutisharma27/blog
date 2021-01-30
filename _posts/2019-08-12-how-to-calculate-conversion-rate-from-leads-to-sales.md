@@ -93,13 +93,17 @@ So a fundamental transformation rate equation figuring is simple, however, we sh
 ## Expanding the change rate:
 We should envision our equivalent business from over 100 other similar businesses. In the case of a business which gets its channel of traffic from compensation for every snap (PPC) battle. On the off chance that the normal CPC is $0.50 and the business burns through $50,000 to create its 100,000 visits, how might you tell the gainfulness? 
 
-All things considered, everything relies upon the transformation rate! At a 2% transformation rate, the business can benefit $50,000 — and in the event that they can build that rate to 10% — and a make a considerable distinction in the main concern.
+All things considered, everything relies upon the transformation rate! At a 2% transformation rate, the business can benefit $50,000 — and in the event that they can build that rate to 10% — and make a considerable distinction in the main concern.
 
 Holding every other thing equivalent other than the transformation rate — and the business can produce $50,000 more in benefit with each 1% expansion in change rate.
 
 #### How incredible is that! 
 
-**Must Read**: [How to Generate Leads For Real Estate in FREE and PAID](/blog/real-estate-lead-generation/)
+**Must Read**:
+
+ [How to Generate Leads For Real Estate in FREE and PAID](/blog/real-estate-lead-generation/)
+
+ [How to use LinkedIn Navigator for B2B Lead Generation](https://blog.7targets.ai/how-to-use-linkedin-navigator-for-b2b-leads-generation/)
 
 ## Timeframe and Calculation of the Conversion Rate:
 For most organizations and circumstances, you’ll need to gauge transformation rate over a reliable time skyline so you can quantify the progressions to your change rate after some time. 
