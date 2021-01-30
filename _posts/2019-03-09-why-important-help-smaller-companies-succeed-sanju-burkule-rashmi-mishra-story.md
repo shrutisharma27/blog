@@ -17,7 +17,7 @@ Earlier we had started Opex Software. Then we ran REAN Cloud. Now we started 7Ta
 
 Rashmi (my wife), and I had moved to California from Pune, India. It had been a couple of years. And Kargil happened.
 
-We thought it was our obligation as Indian citizens to send a donation for Kargil. Rashmis brother was in the Indian army. I read some fiery news on rediff.com on how one can help in making the country stronger. Rediff had gained tremendous traction during those days.
+We thought it was our obligation as Indian citizens to send a donation for Kargil. Rashmi's brother was in the Indian army. I read some fiery news on rediff.com on how one can help in making the country stronger. Rediff had gained tremendous traction during those days.
 
 ## Jan 26, 2001.
 
@@ -29,35 +29,41 @@ Rashmi and I, along with our friends in Santa Barbara, put up a donation collect
 
 ## Donation Vs job creation
 
-We sent our own donation along with the collection to the official Gujarat relief fund. We were happy that we did not just sit and watch news. We had done something good. A few days later I was reading a rediff news article written by Varsha Bhosale. It was titled – ‘The country needs jobs and not your donations’, something along those lines. Fundamentally, it was about teaching people how to fish. It was about creating more wealth to develop the country. Having better emergency handling mechanisms. Renowned people like Bill Clinton flew down to help. We felt we should do more.
+We sent our own donation along with the collection to the official Gujarat relief fund. We were happy that we did not just sit and watch the news. We had done something good. A few days later I was reading a Rediff news article written by Varsha Bhosale. It was titled – ‘The country needs jobs and not your donations’, something along those lines. Fundamentally, it was about teaching people how to fish. It was about creating more wealth to develop the country. Having better emergency handling mechanisms. Renowned people like Bill Clinton flew down to help. We felt we should do more.
 
-Working in the US and sending donations would not make as much of a difference other than offering temporary help. Rashmi and I thought that we should return to India and create a company and provide jobs to at least 20 people. That’s a better way to help. If San Jose entrepreneurs can create a thriving startup culture, why cant we?
+Working in the US and sending donations would not make as much of a difference other than offering temporary help. Rashmi and I thought that we should return to India and create a company and provide jobs to at least 20 people. That’s a better way to help. If San Jose entrepreneurs can create a thriving startup culture, why can't we?
 
 ## Golden cage of large enterprises
 
 We returned to India in 2003.
 
-Took 10 long years to come out of the golden cage of BMC software, a company that taught me about Data Center and IT personas. Our local BMC Software leaders, Nitin Deshpande, Pankaj Dhume, Tarun Sharma helped groom the leadership team by providing MBA programs and personal leadership development. My team in BMC did some amazing work and made me look like a good leader.
+Took 10 long years to come out of the golden cage of BMC Software, a company that taught me about Data Center and IT personas. Our local BMC Software leaders, Nitin Deshpande, Pankaj Dhume, Tarun Sharma helped groom the leadership team by providing MBA programs and personal leadership development. My team in BMC did some amazing work and made me look like a good leader.
 
 ## Opex Software
 
 ## Opex Software was born in 2013.
 
-Me and my cofounder, Gunanand Nagarkar (GG), started Opex Software. I wanted to meet my goal of creating good quality 20 jobs. Opex was a services company. We boot strapped it. It was about configuration automation and devops services, which were quite new then. First year was tough. We worked out ways to reach out to known people and learnt initial marketing and sales lessons.
+Me and my co-founder, Gunanand Nagarkar (GG), started Opex Software. I wanted to meet my goal of creating good quality 20 jobs. Opex was a services company. We boot strapped it. It was about configuration automation and devops services, which were quite new then. First year was tough. We worked out ways to reach out to known people and learnt initial marketing and sales lessons.
 
-Outreach is a basic activity every founder needs to do. I tried to reach out to at least 40 people per week. This was time consuming. Am mentioning this statement on a separate line because this is a important number for 7Targets (below).
+Outreach is a basic activity every founder needs to do. I tried to reach out to at least 40 people per week. This was time consuming. Am mentioning this statement on a separate line because this is an important number for 7Targets (below).
 
 ## 55 jobs created
 
-Opex grew to 20+ people. An important personal goal was achieved. We had created 20 good, well paying software jobs where start salary was equal or more than BMC software (my earlier employer).
+Opex grew to 20+ people. An important personal goal was achieved. We had created 20 good, well paying software jobs where start salary was equal to or more than BMC software (my earlier employer).
 
-People worked hard and grew Opex to 55 people when we sold Opex Software to REAN Cloud. In a new role as head of global marketing of REAN Cloud, I tried to automate marketing as much as I could and reached out to many buyer personas. Faced many small issues, mostly around content, email writing, subject lines of email marketing, grammatical mistakes of how to effectively scale outreach programs without adding manpower and so on. Engaging all the hard earned leads and categorising them into hot and warm leads was time consuming and gave us limited results.
+People worked hard and grew Opex to 55 people when we sold Opex Software to REAN Cloud. In a new role as head of global marketing of REAN Cloud, I tried to automate marketing as much as I could and reached out to many buyer personas. Faced many small issues, mostly around content, email writing, subject lines of email marketing, grammatical mistakes of how to effectively scale outreach programs without adding manpower and so on. Engaging all the hard earned leads and categorizing them into hot and warm leads was time consuming and gave us limited results.
+
+**Must Read:** [Dropped Leads = Lost Revenue](https://blog.7targets.ai/lead-generation-dropped-leads-is-lost-revenue/)
+
 
 ## Birth of 7Targets. Apr 2019. 
 
 AI wave has caught on. AI assists us in many small and large activities. From small things like a spell check, a grammar check, intelligent context sensitive menu items, intelligent wrist watches that provide hourly activity and alerts on fitness, to large important tasks like performing a knee surgery or doing a radiologist job; many people are already using AI knowingly or unknowingly.
 
-I was looking into how AI can help entrepreneurs. For an entrepreneur, it’s tough to find time to reach out to 40 people per week. A founder has many responsibilities. Peoples salaries depends on how he/she manages time. Employees have loans. A lot can get disrupted if founder does not spend his time wisely.
+If you are curious to know [How is AI changing the Sales World?](https://blog.7targets.ai/how-is-ai-changing-the-sales-world/) Do read this!
+
+
+I was looking into how AI can help entrepreneurs. For an entrepreneur, it’s tough to find time to reach out to 40 people per week. A founder has many responsibilities. Peoples salaries depends on how he/she manages time. Employees have loans. A lot can get disrupted if the founder does not spend his time wisely.
 
 ## Simplifying getting new customers is key for small companies
 
@@ -65,11 +71,13 @@ One of the key activities is getting new customers. This is non-negotiable task 
 
 ## CAC is the most important metric for SaaS B2B companies
 
-If this job is not done well, startups won’t do well. Later I learnt that larger companies also face a similar problem and most fare poorly in new customer acquisition. The other category of people that are hugely impacted are SaaS B2B companies. CAC is the most important metric for SaaS B2B companies and reducing CAC, spending less time (money) no each customer acquisition is key.
+If this job is not done well, startups won’t do well. Later I learnt that larger companies also face a similar problem and most fare poorly in new customer acquisition. The other category of people that are hugely impacted are SaaS B2B companies. CAC is the most important metric for SaaS B2B companies and reducing CAC, spending less time (money) on each customer acquisition is key.
 
 ## How founders can reach out to 40 leads in 40 minutes with 7 intelligent followups in 4 weeks?
 
-7Targets is about helping founders and marketers along with sales team members to reach out to 40 people under 40 minutes flat. It’s about reducing the time required for this key function from days/hours to minutes. It’s about using AI to engage all the leads and finding out who is not ready to buy, who is cold, who can marked as warm or hot. It’s about how to bubble up those 2%-4% HOT leads and get them to express explicit interest in talking to you without a huge amount of effort (money, CAC). It’s about intelligent followup with EVERY lead for at least 7 times without pestering the lead, allowing him/her to unsubscribe or say ‘Not interested’ at all times. These intelligent NLP based followups are done by our special AI based assistants. The AI assistant saves 95% manual outreach effort. It gives back that much more valuable time back to founders and leaders. This can mean a difference between a successful startup and a startup running out of cash.
+7Targets is about helping founders and marketers along with sales team members to reach out to 40 people under 40 minutes flat. It’s about reducing the time required for this key function from days/hours to minutes. It’s about using AI to engage all the leads and finding out who is not ready to buy, who is cold, who can be marked as warm or hot. It’s about how to bubble up those 2%-4% HOT leads and get them to express explicit interest in talking to you without a huge amount of effort (money, CAC). It’s about intelligent followup with EVERY lead for at least 7 times without pestering the lead, allowing him/her to unsubscribe or say ‘Not interested’ at all times. These intelligent NLP based followups are done by our special AI based assistants. The AI assistant saves 95% manual outreach effort. It gives back that much more valuable time back to founders and leaders. This can mean a difference between a successful startup and a startup running out of cash.
+
+Do read [Nurturing and converting leads like never before! Use 7Targets AI Sales Assistant](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/) to know details of our offerings to one of the most common problems faced by any startup!
 
 ## Up the game – Help 100 small companies win in 1.5 years
 
@@ -77,6 +85,6 @@ To raise the stakes higher, 7Targets mission is to help at least 100 companies i
 
 ## How you can help?
 
-Thanks in advanced for your wishes. If you have a close friend or startup thats struggling to grow, share this post with them and let them witness the magic of automated AI based followups using 7Targets Sales Assistants.
+Thanks in advance for your wishes. If you have a close friend or startup thats struggling to grow, share this post with them and let them witness the magic of automated AI based followups using 7Targets Sales Assistants.
 
 Feel free to send a note to sanju.burkule@7Targets.com for more suggestions
