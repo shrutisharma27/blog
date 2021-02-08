@@ -91,4 +91,4 @@ Watch WhatsApp Business Assistant for sales and lead nurturing 7Targets.
 **Intelli upload of Excel File:** One expects the physical Assistant to extract data from an excel file and then write emails. 7Targets AI Sales Assistant tries to provide this functionality. [Read More](https://help.7targets.com/assigning-leads/add-multiple-leads/#add-multiple-leads)
 
 ## Conclusion
-Honestly, it is very difficult to pick out one. Better to leave it to your judgment based on various aspects compared above. Feel free to sign-up at https://solution.7targets.com/sign-up and give a try. 
+Honestly, it is very difficult to pick out one. Better to leave it to your judgment based on various aspects compared above. Feel free to sign-up at https://7targets.ai/sign-up.html and give a try. 
