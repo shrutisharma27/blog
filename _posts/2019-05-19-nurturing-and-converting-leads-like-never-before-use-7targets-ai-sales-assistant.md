@@ -38,9 +38,13 @@ All this is done by your Sales Assistant. She will
 
 Moreover, The AI Assistant is trained for reading ‘out of office’ response. She sets the follow up dates accordingly. Secondly, if the lead is busy and would like to be contacted later on, she respects that and contacts the lead later. She NEVER DROPS A LEAD.
 
-To know the story behind starting 7Targets you can read [Why is it important to help more smaller companies succeed? 7Targets story](https://blog.7targets.ai/why-important-help-smaller-companies-succeed-sanju-burkule-rashmi-mishra-story/).
+To know the story behind starting 7Targets you can have a quick read here!
 
-**Must Read:** [ Dropped Leads = Lost Revenue](https://blog.7targets.ai/lead-generation-dropped-leads-is-lost-revenue/)
+[![image](../assets/images/7Targets-story.png)](https://blog.7targets.ai/why-important-help-smaller-companies-succeed-sanju-burkule-rashmi-mishra-story/)
+
+**Must Read:** 
+
+[![image](../assets/images/Dropped-Leads-Lost-Revenue.png)](https://blog.7targets.ai/lead-generation-dropped-leads-is-lost-revenue/)
 
 Best way to learn more is to try our assistant. It takes a few minutes to get setup and running. Please contact info@7Targets.com for more information.
 

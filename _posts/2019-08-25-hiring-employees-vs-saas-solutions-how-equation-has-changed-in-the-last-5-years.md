@@ -41,7 +41,7 @@ Another notable book that was released way before **Execution** was **Business a
 
 AI Based SaaS solutions seem to have started bridging the above two together.
 
-Here is a quick read on [How is AI changing the Sales World?](https://blog.7targets.ai/how-is-ai-changing-the-sales-world/)
+[![image](../assets/images/How-is-AI-changing-Sales-World.png)](https://blog.7targets.ai/how-is-ai-changing-the-sales-world/)
 
 ## Cost of SaaS tools
 
@@ -74,7 +74,9 @@ The complexity carries on in making it mandatory to define email sequences to ge
 
 While there are many more SaaS stories to share, I wanted to share some direct, personal, primary, first hand experiences to begin series. If you have a question about a particular set of AI based SaaS tools in a specific work area, feel free to email me at the below email address, and I can include the research in my next blog. As SaaS based AI solutions continue to make  companies powerful, where far flung countries can now access the brainpower of top founders, be ready to enter a new disruptive era that will hopefully create a new economic equilibrium in the world. 
 
-If you want to numerically compare Conversion Rate from leads to sales for an employee and SaaS you must read [How to calculate Conversion Rate from leads to sales](https://blog.7targets.ai/how-to-calculate-conversion-rate-from-leads-to-sales/) here.
+If you want to numerically compare Conversion Rate from leads to sales for an employee and SaaS you must read how to calculate Conversion Rate from leads to sales here.
+
+[![image](../assets/images/Calculate-Conversion-Rate-from-leads-to-sales.png)](https://blog.7targets.ai/how-to-calculate-conversion-rate-from-leads-to-sales/)
 
 And if you think this article is valuable to those having hiring issues and can be helped by AI Based SaaS solutions, please share this article.
 

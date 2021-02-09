@@ -10,7 +10,7 @@ image: assets/images/Recruitment-business.png
 description: "Comparison between Freshmarketers and 7Targets AI Sales Assistant as Freshmarketers alternative. One honest comparison attempt. "
 # rating: 4.5
 ---
-## Video on How 7Targets helps Staffing and Recruitment Companies 
+## Video on How 7Targets Assistant helps Staffing and Recruitment Companies 
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/1QiiEkkKts8" height="380" width="560" 
     allow="autoplay; encrypted-media"
@@ -21,7 +21,15 @@ description: "Comparison between Freshmarketers and 7Targets AI Sales Assistant 
 Here are the 3 effective ways to Nurture your customers and scale up your revenue with the help of AI assistants.
 
 ## Reach out to the existing customers
-Reaching out to the existing customers where you are already enrolled as a vendor is a key activity. Everyone is aware of this fact, but implementing it with discipline and on a daily basis can be a challenge. Here, AI assistants come to the rescue. AI assistant can be of great help as it can work beautifully to reconnect with all your existing HR connects. You can have a quick read about [Nurturing and converting leads like never before! Use 7Targets AI Sales Assistant](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant) here. Make sure you keep all your HR contacts in separate baskets based on segments such as manufacturing segment, education tech segment, etc. It is recommended to send an email once every three to four weeks to each connect. This is a simple activity and it is a low hanging fruit that can help add to the revenue within a month or two. AI assistants do this mundane job intelligently and accurately and also in a human-like manner which is extremely beneficial and easy to set up. 
+Reaching out to the existing customers where you are already enrolled as a vendor is a key activity. Everyone is aware of this fact, but implementing it with discipline and on a daily basis can be a challenge. Here, AI assistants come to the rescue. AI assistant can be of great help as it can work beautifully to reconnect with all your existing HR connects.
+
+You can have a quick read about how 7Targets' Assistant nurtures and converts the leads.
+
+[![image](../assets/images/Converting-leads-using-7Targets-AI-Sales-Assistant.png)](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/)
+
+Make sure you keep all your HR contacts in separate baskets based on segments such as manufacturing segment, education tech segment, etc. It is recommended to send an email once every three to four weeks to each connect. This is a simple activity and it is a low hanging fruit that can help add to the revenue within a month or two. AI assistants do this mundane job intelligently and accurately and also in a human-like manner which is extremely beneficial and easy to set up. 
+
+[![image](../assets/images/Recruitment-assistant-page.png)](https://7targets.ai/recruitment-assistant.html)
 
 ## Ensure the Repeatability of Sales
 To ensure the repeatability of sales first select one market segment where you have the highest number of customers. Most staffing companies win initial customers through personal contacts and references. And they are spread across different segments. While it's okay to start this way, you cannot achieve speed in growth if you continue to help anybody and everybody in hiring. 
@@ -64,5 +72,9 @@ Watch the short demo of 7Targets.
     frameborder="0">
     </iframe>
 </div>
+
+[![image](../assets/images/Recruitment-assistant-page.png)](https://7targets.ai/recruitment-assistant.html)
+
+[![image](../assets/images/Sign-up-for-Free-Trial.png)](https://7targets.ai/sign-up.html?utm_medium=3-strategies-recruitment&utm_source=7tsblogs)
 
 Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=3-strategies-recruitment&utm_source=7tsblogs) and give it a try and experience how an AI assistant can scale up your recruitment business.

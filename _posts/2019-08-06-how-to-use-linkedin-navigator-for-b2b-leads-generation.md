@@ -49,9 +49,9 @@ The best system for keeping in contact with your major records is to drive suita
 
 Prospecting and social selling can be tedious assignments on the off chance that you are not furnished with the correct apparatuses and best practices. Utilizing LinkedIn Navigator enables you to fabricate a huge contact database rapidly and with negligible exertion.
 
-Despite the fact that lead generation on this website is a numbers game, the entire thought isn’t to produce leads for creating leads. In a perfect world, what you need is to get the correct sort of connections. That is the reason you need a strong lead generation methodology set up. 
+Despite the fact that lead generation on this website is a numbers game, the entire thought isn’t to produce leads for creating leads. In a perfect world, what you need is to get the correct sort of connections. That is the reason you need a strong lead generation methodology set up.
 
-**Must Read:** [How to bring visitors to your landing Page?](https://blog.7targets.ai/how-to-use-social-media-outbound-emails-and-forums-like-quora-for-getting-early-traction/)
+[![image](../assets/images/How-to-bring-visitors-to-landing-Page.png)](https://blog.7targets.ai/how-to-use-social-media-outbound-emails-and-forums-like-quora-for-getting-early-traction/)
 
 ## Need for a strong establishment set up:
 A strong establishment includes building a ground-breaking individual brand that upgrades your LinkedIn nearness. This includes: 
@@ -79,7 +79,7 @@ This expands your range on LinkedIn, and if the content has esteem, after some t
 
 LinkedIn Pulse is a device that can be used to get your substance past simply the millions of associations in your system. This is a LinkedIn lead generation arena that provides a more extensive group of spectators to take advantage of, and it also considers particular focusing on. Above all, Pulse vindicates the urgency to complete a ton of advancement brainstorming and fieldwork because it is coordinated into one’s LinkedIn account.
 
-**Must Read:** [Nurturing and converting leads like never before! Use 7Targets AI Sales Assistant](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/)
+[![image](../assets/images/Converting-leads-using-7Targets-AI-Sales-Assistant.png)](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/)
 
 ## Use of LinkedIn Groups and Communication Tools Daily 
 LinkedIn gatherings are accumulations of people with comparable needs, abilities, likes, and so forth. They are helpful as in you get familiar with a great deal and are a chance to remain over the most recent incidences in the enterprises you’re focusing for deals. 
@@ -105,13 +105,8 @@ As implied before, LinkedIn deals instruments like Octopus CRM can spare you inc
 1. Informing many of your associations in a single swoop 
 1. Auto-underwriting your associations 
 
-**Must Read:**
 
-[How to Generate Real Estate Leads for Free and Paid](https://blog.7targets.ai/real-estate-lead-generation/)
-
-[Dropped Leads = Lost Revenue](https://blog.7targets.ai/lead-generation-dropped-leads-is-lost-revenue/)
-
-[How to calculate Conversion Rate from leads to sales](https://blog.7targets.ai/how-to-calculate-conversion-rate-from-leads-to-sales/)
+[![image](../assets/images/Dropped-Leads-Lost-Revenue.png)](https://blog.7targets.ai/lead-generation-dropped-leads-is-lost-revenue/)
 
 ## CONCLUSION:
 _This is a striking stage for organizations to the hotspot for leads. It is for the fundamental reason that not at all like other web-based life locales, LinkedIn is carefully intended for structure business associates. Also, that must be uplifting information for any big company prospecting for leads. Whenever utilized right, this is a stage that can help create a lot of focused leads for your business that in the long run winds up changing over. 

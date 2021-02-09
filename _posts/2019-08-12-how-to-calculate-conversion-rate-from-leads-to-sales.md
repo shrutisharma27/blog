@@ -47,6 +47,8 @@ Notwithstanding, we realize that only one out of every odd lead you get will end
 
 That implies you can hope to produce about $4,000 from your 10 drives (2 deals @ $2,000 ea). That is on the grounds that we know all things considered you are finishing 2 off of 10 deals, a 20% transformation rate. This implies the estimation of one lead is really $400 (4,000/10). 
 
+ [![image](../assets/images/LinkedIn-Navigator-for-B2B-Lead-Generation.png)](https://blog.7targets.ai/how-to-use-linkedin-navigator-for-b2b-leads-generation/)
+
 ## Here’s the methodology: 
 #### Lead Value = Value of Sale/Number of Leads 
 The past model is somewhat oversimplified and you can get a lot further with this stuff. As we talked about before, a few leads will be more qualified than others and we will likewise need to take a gander at what the genuine benefit is – not simply the income. More on that in a moment. 
@@ -99,11 +101,7 @@ Holding every other thing equivalent other than the transformation rate — and 
 
 #### How incredible is that! 
 
-**Must Read**:
-
- [How to Generate Leads For Real Estate in FREE and PAID](/blog/real-estate-lead-generation/)
-
- [How to use LinkedIn Navigator for B2B Lead Generation](https://blog.7targets.ai/how-to-use-linkedin-navigator-for-b2b-leads-generation/)
+ [![image](../assets/images/Generate-Real-Estate-Leads-for-Free-and-Paid.png)](https://blog.7targets.ai/real-estate-lead-generation/)
 
 ## Timeframe and Calculation of the Conversion Rate:
 For most organizations and circumstances, you’ll need to gauge transformation rate over a reliable time skyline so you can quantify the progressions to your change rate after some time. 

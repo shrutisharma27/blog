@@ -19,7 +19,11 @@ description: "How AI Assistant engages leads and updates Salesforce automaticall
 </div>
 We all know that Salesforce is one of the best CRM tools available, but when it comes to all the mundane and repetitive tasks of data entry, it’s not easy. Updating data into salesforce requires discipline more than time and it shifts the focus from pipeline generation work to administrative work. Also, there are possibilities of human errors, shortcuts, people updating Salesforce just for namesake so that the ‘modified date’ is updated and the record does not become stale.
 
-The AI assistant of 7Targets not only sends automated human-like emails to the leads, but also reads the email responses, and acts just like any human being would. She follows up with each lead until they can be marked as warm or hot. You can have a quick read about [Nurturing and converting leads like never before! Use 7Targets AI Sales Assistant](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/) here. And to top it all, the AI assistant is also capable of updating all the information into the salesforce CRM instantly and accurately.
+The AI assistant of 7Targets not only sends automated human-like emails to the leads, but also reads the email responses, and acts just like any human being would. She follows up with each lead until they can be marked as warm or hot. 
+
+[![image](../assets/images/Converting-leads-using-7Targets-AI-Sales-Assistant.png)](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/)
+
+And to top it all, the AI assistant is also capable of updating all the information into the salesforce CRM instantly and accurately.
 
 Not only just Salesforce but also updates every other CRM tools available. To name a few Hubspot, SugarCRM, Zoho, Freshmarketer, Pipedrive, etc.
 
@@ -51,4 +55,4 @@ If you are still confused about if you should employ an AI sales assistant or a 
     </iframe>
 </div>
 
-Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=AI-assist-as-SF-user&utm_source=7tsblogs) and give it a try and experience how an AI assistant can reduce your effort.
+Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=AI-assist-as-SF-user&utm_source=7tsblogs) for free trial and give it a try and experience how an AI assistant can reduce your effort.

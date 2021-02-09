@@ -44,7 +44,8 @@ The need for a smart, energetic assistant who can take all the rejections and st
 
 Hence we created 7Targets.ai. The goal of 7Targets is to ensure that organizations do not lose revenue because leads are dropped.
 
-[Nurturing and converting leads like never before! Use 7Targets AI Sales Assistant](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/)
+
+[![image](../assets/images/Converting-leads-using-7Targets-AI-Sales-Assistant.png)](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/)
 
  There are a few other assistants that are helping in different areas in this space. Some examples are provided below:
 
