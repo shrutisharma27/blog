@@ -46,7 +46,7 @@ Making your own marked application can take your real estate lead generation end
 ## 6. Destroy Branded Gear in Public 
 Your journey for leads doesn’t stop when you leave the workplace. So, why not shake some marked rigging when you’re out on the town? Regardless of whether you’re remaining in line at the supermarket or strolling your pooch through the recreation center, individuals will pay heed to your name and what you do. In the event that you need to improve your real estate lead generation, a great spot to begin may very well be your closet. No one can really tell where you could locate your next customer! 
 
-Must Read: [How to use LinkedIn Navigator for B2B Leads Generation](/blog/how-to-use-linkedin-navigator-for-b2b-leads-generation/)
+[![image](../assets/images/LinkedIn-Navigator-for-B2B-Lead-Generation.png)](https://blog.7targets.ai/how-to-use-linkedin-navigator-for-b2b-leads-generation/)
 
 ## 7. Support a Housewarming Party After Your Clients Close on Their Home 
 Why not go enormous when your purchaser returns home? Supporting a housewarming party after purchasers close on their new house is one approach that comes out with a blast. To start with, affirm with your customers this is something they’d be keen on and marked the calendar that works for them. In the event that they give you the approval, begin to get ready for the festival by welcoming their new neighbors and giving nourishment and beverages. On the off chance that you need to go well beyond, think about giving a blessing to the mortgage holders. Not exclusively will you leave your customers incredibly cheerful, however, you’ll be the buzz of the square. With that sort of verbal, you’ll be leaving a long trail of real estate lead generation behind you.
@@ -71,7 +71,7 @@ In case you’re getting down to business distantly, why not go someplace you ca
 
 Simply be cautious about attempting to `advertise` to individuals you meet it might make a sentiment of intrusion. Rather, consider it an agreeable discussion. On the off chance that a potential customer communicates enthusiasm for your administrations, surprisingly enhanced! By bringing your office out to the overall population, you demonstrate that you truly care about serving the network. 
 
-**Must Read:**[How to calculate Conversion Rate from leads to sales](https://blog.7targets.ai/how-to-calculate-conversion-rate-from-leads-to-sales/)
+[![image](../assets/images/Calculate-Conversion-Rate-from-leads-to-sales.png)](https://blog.7targets.ai/how-to-calculate-conversion-rate-from-leads-to-sales/)
 
 Image result for PROVEN IDEAS: HOW TO GENERATE LEADS FOR REAL ESTATE IN FREE AND PAID
 Prepared to layout these real estate lead generation thoughts an attempt? By actualizing only a couple of these today, you’ll be drawing in and changing over leads in manners you never figured you could.

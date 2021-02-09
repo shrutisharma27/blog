@@ -53,14 +53,16 @@ Opex grew to 20+ people. An important personal goal was achieved. We had created
 
 People worked hard and grew Opex to 55 people when we sold Opex Software to REAN Cloud. In a new role as head of global marketing of REAN Cloud, I tried to automate marketing as much as I could and reached out to many buyer personas. Faced many small issues, mostly around content, email writing, subject lines of email marketing, grammatical mistakes of how to effectively scale outreach programs without adding manpower and so on. Engaging all the hard earned leads and categorizing them into hot and warm leads was time consuming and gave us limited results.
 
-**Must Read:** [Dropped Leads = Lost Revenue](https://blog.7targets.ai/lead-generation-dropped-leads-is-lost-revenue/)
+[![image](../assets/images/Dropped-Leads-Lost-Revenue.png)](https://blog.7targets.ai/lead-generation-dropped-leads-is-lost-revenue/)
 
 
 ## Birth of 7Targets. Apr 2019. 
 
 AI wave has caught on. AI assists us in many small and large activities. From small things like a spell check, a grammar check, intelligent context sensitive menu items, intelligent wrist watches that provide hourly activity and alerts on fitness, to large important tasks like performing a knee surgery or doing a radiologist job; many people are already using AI knowingly or unknowingly.
 
-If you are curious to know [How is AI changing the Sales World?](https://blog.7targets.ai/how-is-ai-changing-the-sales-world/) Do read this!
+If you are curious to know how is AI changing the Sales World? Do read this!
+
+[![image](../assets/images/How-is-AI-changing-Sales-World.png)](https://blog.7targets.ai/how-is-ai-changing-the-sales-world/)
 
 
 I was looking into how AI can help entrepreneurs. For an entrepreneur, it’s tough to find time to reach out to 40 people per week. A founder has many responsibilities. Peoples salaries depends on how he/she manages time. Employees have loans. A lot can get disrupted if the founder does not spend his time wisely.
@@ -77,7 +79,9 @@ If this job is not done well, startups won’t do well. Later I learnt that larg
 
 7Targets is about helping founders and marketers along with sales team members to reach out to 40 people under 40 minutes flat. It’s about reducing the time required for this key function from days/hours to minutes. It’s about using AI to engage all the leads and finding out who is not ready to buy, who is cold, who can be marked as warm or hot. It’s about how to bubble up those 2%-4% HOT leads and get them to express explicit interest in talking to you without a huge amount of effort (money, CAC). It’s about intelligent followup with EVERY lead for at least 7 times without pestering the lead, allowing him/her to unsubscribe or say ‘Not interested’ at all times. These intelligent NLP based followups are done by our special AI based assistants. The AI assistant saves 95% manual outreach effort. It gives back that much more valuable time back to founders and leaders. This can mean a difference between a successful startup and a startup running out of cash.
 
-Do read [Nurturing and converting leads like never before! Use 7Targets AI Sales Assistant](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/) to know details of our offerings to one of the most common problems faced by any startup!
+Do read the following blog to know details of our offerings to one of the most common problems faced by any startup!
+
+[![image](../assets/images/Converting-leads-using-7Targets-AI-Sales-Assistant.png)](https://blog.7targets.ai/nurturing-and-converting-leads-like-never-before-use-7targets-ai-sales-assistant/)
 
 ## Up the game – Help 100 small companies win in 1.5 years
 

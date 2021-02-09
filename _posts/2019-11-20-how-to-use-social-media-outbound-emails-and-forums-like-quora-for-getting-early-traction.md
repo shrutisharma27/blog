@@ -32,6 +32,8 @@ Why always think of driving new traffic to our landing pages when we can have ou
 #### Scheduling
 Use scheduling tools like HootSuite, Ryzely, Buffer to schedule your posts so that you are always active. 
 
+[![image](../assets/images/LinkedIn-Navigator-for-B2B-Lead-Generation.png)](https://blog.7targets.ai/how-to-use-linkedin-navigator-for-b2b-leads-generation/)
+
 ## Use communities or question and answer sites like Quora  
 Quora, when used correctly, can help you drive traffic to your landing pages quite usefully. Find questions that are relevant to your pages and answer them informatively. However the catch here is, never answer their query completely. Leave them asking for more. Slip in a link to your page. This will definitely drive traffic to your landing page given that you were able to build a good narrative and interest the visitors.
 
@@ -66,12 +68,7 @@ In the end you are only left with a quick spam check of your emails to ensure yo
 - [GlockApps](https://glockapps.com/spam-testing/)
 - [Retainly](Retainly)
 
-**Must Read:**
-
-[How to use LinkedIn Navigator for B2B Lead Generation](https://blog.7targets.ai/how-to-use-linkedin-navigator-for-b2b-leads-generation/)
-
-[How to calculate Conversion Rate from leads to sales](https://blog.7targets.ai/how-to-calculate-conversion-rate-from-leads-to-sales/)
-
+[![image](../assets/images/Calculate-Conversion-Rate-from-leads-to-sales.png)](https://blog.7targets.ai/how-to-calculate-conversion-rate-from-leads-to-sales/)
 
 ## Final thoughts
 >Its not a huge challenge to bring the right audience to your landing page. But it surely is lot of work. Some automation can help you escape some of the work. Using above simple steps, you can get early traction, and then look into paid methods of getting traffic to landing pages.

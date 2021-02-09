@@ -40,7 +40,7 @@ If you directly reach out to a person of authority in parallel with the users of
 
 LinkedIn is one of the best places where you get the designation of people. This helps in targeting those who fit your ideal customer profile definition. 
 
-[How to use LinkedIn Navigator for B2B Lead Generation](https://blog.7targets.ai/how-to-use-linkedin-navigator-for-b2b-leads-generation/)
+[![image](../assets/images/LinkedIn-Navigator-for-B2B-Lead-Generation.png)](https://blog.7targets.ai/how-to-use-linkedin-navigator-for-b2b-leads-generation/)
 
 **Need**
 
