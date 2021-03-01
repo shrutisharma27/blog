@@ -25,9 +25,9 @@ Will Virtual Sales Assistants become a thing of the past as AI Sales Assistants 
 Let’s compare what you get when you are working with virtual sales assistants Vs AI Sales Assistants. Before we start, let’s just define these terms, so we all are on the same page. 
 
 
-    Virtual Sales Assistants are outsourced, mostly remote, salespeople that help you to create a lead pipeline for you. They can be in different countries and in different time zones.
+**Virtual Sales Assistants** _are outsourced, mostly remote, salespeople that help you to create a lead pipeline for you. They can be in different countries and in different time zones._
 
-    AI Sales Assistants are software programs that ACT like human sales to prospects. You can create an AI sales assistant with your name so that it looks like an impersonation of yourself. You can also create an AI sales assistant as if it’s a new person with a clear job title, role, and responsibility.
+**AI Sales Assistants** _are software programs that behaves like human sales people. You can create an AI sales assistant with your name so that it looks like an impersonation of yourself. You can also create an AI sales assistant as if it’s a new person with a clear job title, role, and responsibility._
 
 Well, let’s compare the pros and cons of when to use which and what value do they add. Let’s look at sales simplistically as 
 
@@ -133,7 +133,7 @@ Human Sales generally fail to update CRM for cold leads. Here, AI Sales Assistan
 
 To sum up, if you are at the initial stage of figuring out what works, which message works, then a virtual sales assistant will be a better choice. But if you are looking for 100% repeatable and scalable results then an AI sales assistant is the best choice for you atleast for the first two phases of sales. Also, one more important aspect to be considered is which one is more suitable regarding the cost of customer acquisition.
 
-You can visit our website https://7targets.ai/index.html and Feel free to sign-up for a free trial and give it a try and get started on how an AI sales assistant can help you achieve 100% repeatable and scalable results.
+You can visit our [website](https://7targets.ai) and Feel free to sign-up for a free trial and give it a try and get started on how an AI sales assistant can help you achieve 100% repeatable and scalable results.
 
 
 [![image](../assets/images/Sign-up-for-Free-Trial.png)](https://7targets.ai/sign-up.html)
