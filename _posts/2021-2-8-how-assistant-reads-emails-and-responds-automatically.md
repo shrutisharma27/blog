@@ -20,7 +20,7 @@ No CRM software or email marketing softwares in the world today reads emails, an
 
 First, no human email cleanup needed. Assistants automatically remove invalid email ids periodically. 
 
-## 2. Unsubscribes if asked a lead
+## 2. Unsubscribes if asked by a lead
 
 More than 50% of leads respond saying they are not interested. and they can say that in 100 different ways. 'I am not interested', 'Please don't email me', 'Not for me' etc. The assistants read these emails, understands it, and takes the action of not sending them any more emails automatically. If you have a few thousand leads, this can be a lot of manual work, which the assistant does for you, saving tremendous effort.  
 
