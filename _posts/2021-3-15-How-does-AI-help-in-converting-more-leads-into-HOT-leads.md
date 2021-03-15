@@ -3,11 +3,11 @@ layout: post
 title:  "How does AI help in converting more leads into HOT leads?"
 author: Sanju
 categories: [ Sales, AI, Leads]
-tags: [AI, Sales, Leads, Follow-up, Open Rate, Response Rate, Out-of-office, Hot Leads, Warm Leads, Cold Leads, Email address]
+tags: [AI, Sales, Leads, Conversion]
 image: assets/images/convert-leads-into-hot-leads.png
 # beforetoc: "Prism highlighter is a very powerful thing."
-# toc: true
-description: "This blog explains all the feartures of 7Target's AI sales Assistant."
+toc: true
+description: "Increase the conversion rate with the help of AI in sales and marketing"
 # rating: 4.5
 ---
 Imagine you were thinking of buying a pair of shoes for a long time, so you search for it in your browser, but after searching for a few minutes you are distracted by some other work and stop the search. Now after completing all your work, you open Instagram or Facebook and start scrolling the feeds, after some time you see advertisements for shoes! Now because of these advertisements, you remember that you wanted to buy them and click on the link and order a nice comfortable pair of shoes. Well, it’s not surprising that AI sensed the text you searched for and in turn connected you with the relevant vendor. This benefitted both you and the vendor. 
