@@ -6,7 +6,7 @@ categories: [ NLP, AI, ML. Tech, Scikit]
 tags: [AI, Sales, NLP]
 image: assets/images/email-greetings.png
 # beforetoc: "Prism highlighter is a very powerful thing."
-toc: true
+toc: false
 description: "ML model help identify and remove the salutation line from the actual email body. Running the model in Lambda helps keep our AWS bill in control"
 # rating: 4.5
 ---
