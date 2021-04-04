@@ -15,6 +15,16 @@ email: info@7targets.com
 
 # Authors
 authors:
+  Tanmay:
+    name: Tanmay
+    display_name: Tanmay
+    avatar: 
+    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: hello@tanmaysinghal.dev
+    web: https://in.linkedin.com/in/tanmaysinghal98
+    twitter: https://twitter.com/tanmaysinghal98
+    youtube: 
+    description: Tanmay is an AI Enthusiast and a software engineer, specializing in building (mostly serverless) cloud native solution, applications, and everything in between. Solving complex problems by effectively using AI and ML along with Cloud native approach is his niche. 
   Bharat:
     name: Bharat
     display_name: Bharat
