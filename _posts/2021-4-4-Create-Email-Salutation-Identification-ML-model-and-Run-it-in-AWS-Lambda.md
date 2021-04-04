@@ -7,12 +7,10 @@ tags: [AI, Sales, NLP]
 image: assets/images/email-greetings.png
 # beforetoc: "Prism highlighter is a very powerful thing."
 toc: false
-description: "ML model help identify and remove the salutation line from the actual email body. Running the model in Lambda helps keep our AWS bill in control"
+description: "ML model to help identify and remove the salutation line from the actual email body. Running the model on [AWS Lambda](https://aws.amazon.com/lambda/) helps keep our AWS bill in control"
 # rating: 4.5
 ---
-# What we are going to do?
-
-Create an ML model which will identify a salutation line or greeting line from an email. Then run this model on [AWS Lambda](https://aws.amazon.com/lambda/). 
+We will create a ML model to help identify and remove the salutation line from the actual email body. Running the model on [AWS Lambda](https://aws.amazon.com/lambda/) helps keep our AWS bill in control.
 
 ## Why?
 
