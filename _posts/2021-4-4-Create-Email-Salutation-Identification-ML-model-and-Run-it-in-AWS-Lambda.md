@@ -4,7 +4,7 @@ title:  "Create Email Salutation Identification ML model and Run it in AWS Lambd
 author: Tanmay
 categories: [ NLP, AI, ML. Tech, Scikit]
 tags: [AI, Sales, NLP]
-image: assets/images/email=greetings.png
+image: assets/images/email-greetings.png
 # beforetoc: "Prism highlighter is a very powerful thing."
 toc: true
 description: "ML model help identify and remove the salutation line from the actual email body. Running the model in Lambda helps keep our AWS bill in control"
