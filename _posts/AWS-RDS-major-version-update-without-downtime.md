@@ -17,6 +17,7 @@ We needed to upgrade the AWS RDS Aurora MySQL from 5.6 to 5.7 without causing an
 
 ## Background
 Our application is running on ECS fargate and we have Aurora MySQLversion 5.6
+![image](../assets/images/MySQL-Version-Upgrade.png)
 
 ## Approach
 We will be using AWS DMS(Data Migration Service) for upgrading major versions. After that we will point out application endpoint to use our new database:
