@@ -2,7 +2,7 @@
 layout: post
 title:  "Create Email Salutation Identification ML model and Run it in AWS Lambda"
 author: Tanmay
-categories: [ NLP, AI, ML. Tech, Scikit]
+categories: [ NLP, AI, ML, Tech, Scikit]
 tags: [AI, Sales, NLP]
 image: assets/images/email-greetings.png
 # beforetoc: "Prism highlighter is a very powerful thing."
