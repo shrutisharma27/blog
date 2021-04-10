@@ -28,13 +28,13 @@ authors:
   Bharat:
     name: Bharat
     display_name: Bharat
-    avatar: 
+    avatar: 'assets/images/bharat.jpeg'
     # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: 
-    web: 
+    web: https://in.linkedin.com/in/bharat-nainani-653352175
     twitter: 
     youtube: 
-    description: 
+    description: Bharat is an AWS Certified Devops engineer. Solving simple to complex problems in Devops and Cloud is his passion.
   GG:
     name: GG Nagarkar
     display_name: GG
