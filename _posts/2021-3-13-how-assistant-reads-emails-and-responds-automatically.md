@@ -50,16 +50,12 @@ For those few leads who ask for a brochure, the assistant automatically sends th
 
 <table border="0">
  <tr>
-    <td><img src="../assets/images/Ai-assistant.png" alt="" border=0 height=300 width=300></td>
-    <td> <b>Get Your Own AI Assistant to<br>   
-Drive Your Sales Pipeline and<br>
-<span style="color: #ff7a59;">Double&nbsp;</span> Your Meetings</b><br>
-
-<br>You get more <b>engaged & converted leads</b><br>
-<br>Creates a <b>healthy sales pipeline</b> for you<br>
-<br>Get <b>double response</b> with targeted nurturing<br>
-<br><br>
-
+    <td><img src="../assets/images/Ai-assistant.png" alt="" border=0 height=400 width=300></td>
+    <td> Get Your Own AI Assistant to<br>Drive Your Sales Pipeline and<br><b><span style="color: #ff7a59;">Double&nbsp;</span> Your Meetings</b>
+    <br>You get more <b>engaged & converted leads</b>
+    <br>Creates a <b>healthy sales pipeline</b> for you
+    <br>Get <b>double response</b> with targeted nurturing
+<br>
  <a href="https://7targets.ai/sign-up.html?utm_medium=img-cta&utm_source=blog"> <img src="../assets/images/cta-button.png" height=40 width=250 lt="DON'T FORGET THIS"></a></td>
  </tr>
 </table>
