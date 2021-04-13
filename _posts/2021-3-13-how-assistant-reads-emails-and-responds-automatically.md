@@ -48,6 +48,22 @@ AI Assistant reads those 5 to 8% positive responses where leads ask for meetings
 
 For those few leads who ask for a brochure, the assistant automatically sends them a brochure within 5 minutes as well. Response time is critical for moving faster and reducing sales cycles. A human sales may come the next day morning or Monday morning and then respond with the brochure, losing valuable time. Delayed response results in lower chances of lead opening the brochure. It's best to respond immediately till the time the lead is interested in knowing more. 
 
+<table border="0">
+ <tr>
+    <td><img src="../assets/images/Ai-assistant.png" alt="" border=0 height=300 width=300></td>
+    <td> <b>Get Your Own AI Assistant to<br>   
+Drive Your Sales Pipeline and<br>
+<span style="color: #ff7a59;">Double&nbsp;</span> Your Meetings</b><br>
+
+<br>You get more <b>engaged & converted leads</b><br>
+<br>Creates a <b>healthy sales pipeline</b> for you<br>
+<br>Get <b>double response</b> with targeted nurturing<br>
+<br><br>
+
+ <a href="https://7targets.ai/sign-up.html?utm_medium=img-cta&utm_source=blog"> <img src="../assets/images/cta-button.png" height=40 width=250 lt="DON'T FORGET THIS"></a></td>
+ </tr>
+</table>
+
 ## 6. Reschedules next followup if asked by lead 
 
 Call back later: Some leads say 'Let's connect back after 2 months', 'Let’s connect in April', etc. Here as well, human sales need not spend his time on administrative responses. The Assistant reads such emails and automatically reschedules the next email connection to be sent in the specified week.
