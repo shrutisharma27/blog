@@ -51,7 +51,7 @@ For those few leads who ask for a brochure, the assistant automatically sends th
 <table border="0" >
  <tr >
     <td style="padding-right: 10px;"><img src="../assets/images/Ai-assistant.png" ></td>
-    <td > <h5>Get Your Own AI Assistant to Drive Your Sales Pipeline and <b><span style="color: #ff7a59;">Double</span> Your Meetings</b></h5>
+    <td > <h5>Gets Your Own AI Assistant to Drive Your Sales Pipeline and <b><span style="color: #ff7a59;">Double</span> Your Meetings</b></h5>
     <span style="font-size: 15px;">- Get you more <b>engaged & converted leads</b><br>
     - Creates a <b>healthy sales pipeline</b> for you<br>
     - Gets you <b>double response</b> with targeted nurturing </span>
