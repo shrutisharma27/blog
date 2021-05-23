@@ -22,13 +22,13 @@ We have the below observations.
 Most email senders kept the signature simple. Name, Title, Phone number, Company name, and URL are suitable to represent you and your company. Simple text, not taking too much screen space. It will show up properly on mobiles as well.
 We have chosen the below default signature format for AI Assistants in 7Targets. It has worked well for us till now for more than two years. Some people change it to use color and fonts. 
 
-[![image](../assets/images/email-signature-1.png)]
+![image](../assets/images/email-signature-1.png)
 
 ## Your Picture
 
 We have also seen that a picture of a person can put a face to name. A small passport-sized picture on the left-hand side followed by a thin vertical line to its right, and then details like name, company to the right of the image. We will be analyzing the difference a picture makes to crucial metrics like click-through rate and response rate. If you are interested in that analysis, drop an email to info@7targets.com, and we will send it to you.
 
-[![image](../assets/images/email-signature-3.png)]
+![image](../assets/images/email-signature-3.png)
 
 ## Large Enterprise look: Confidentiality Clause
 
@@ -62,7 +62,7 @@ If a prospect wants to meet you, having a handy Book a Meeting link in your sign
 
 We are now trying **WhatsApp Me** actionable link in the signature. We do not have conclusive data to recommend this one way or other firmly.
 
-[![image](../assets/images/email-signature-2.png)]
+![image](../assets/images/email-signature-2.png)
 
 You can try it and let us know the % times it worked for you.
 
