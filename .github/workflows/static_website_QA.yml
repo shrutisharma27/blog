@@ -28,6 +28,7 @@ jobs:
          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID_QA }}
          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_QA }}
          aws-region: ${{ secrets.AWS_REGION_QA }}
+         aws-s3-bucket: ${{ secrets.S3_BUCKET_NAME_QA }}
 
       - name: Sync output to S3 bucket in blog folder
         run: |
