@@ -31,4 +31,4 @@ jobs:
 
       - name: Sync output to S3 bucket in help folder
         run: |
-          aws s3 sync ./_site/ s3://${{ secrets.S3_BUCKET_NAME_QA }}/blog --delete
+          aws s3 sync ./_site/ s3://${{ secrets.S3_BUCKET_NAME_QA }}/blog --ac1 public-read --delete
