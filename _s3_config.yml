@@ -1,0 +1,101 @@
+# ----
+# Site
+
+title: 7Targets AI Sales Assistant
+url: "https://7targets.ai"
+baseurl: /help
+google_analytics_key:
+disqus_shortname:
+newsletter_action:
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /help/siteicon.png
+description: Knowledge Base for 7Targets AI Sales Assistant aka Virtual Sales Assistant
+author:
+  name: 7Targets Team
+  email: info@7targets.com
+  twitter: 7targets_
+social:
+  name: 7Targets Team
+  links:
+    - https://github.com/7targets/7targets-docs
+
+# -----
+# Build
+
+timezone: Etc/UTC
+
+permalink: /:categories/:title/
+  
+plugins:
+  - jekyll-extract-element
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  # - jekyll-archives
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+  - /vendor/bundle
+
+collections:
+  sets:
+  archives:
+    output: true
+    permalink: /archives/:path/
+
+
+# jekyll-archives:
+#   enabled: ['categories']
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  -
+    scope:
+      type: "archives"
+    values:
+      layout: "archive-categories"
+  -
+    scope:
+      type: "sets"
+    values:
+      _hide_content: true
+  -
+    scope:
+      path: "index.html"
+    values:
+      body_class: "show_hero_search"
+
+# -----------
+# 7Targets
+
+social_icons:
+  - Facebook
+  # - Google Plus
+  # - Instagram
+  - LinkedIn
+  # - Pinterest
+  # - Tumblr
+  - Twitter
+  - YouTube
+  # - Email
+  # - RSS
+
+types:
+  - Document
+  - Video
+
+_comments:
