@@ -20,7 +20,7 @@ jobs:
            bundler-cache: true
       
       - name: "Build Site"
-        run: bundle exec jekyll build --config _s3_config.yml
+        run: bundle exec jekyll build --config _s3_config.yml --trace
         
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
